@@ -1,2 +1,2 @@
 # odin-recipes
-new project repo
+my first repository project
