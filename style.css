@@ -1,0 +1,12 @@
+h1{
+    font-size: xx-large;
+}
+ #contents {
+    display:block;
+    margin:auto;
+    padding: 1rem;
+    margin-top: 2rem;
+    width: max(70%,400px);
+    border: 1px solid black;
+    text-align: left;
+ }
